@@ -1,4 +1,4 @@
-# CharacterNFT
+# CharacterNFT with API3 QRNG Randomness
 https://www.notion.so/modtech/Randomness-Onchain-621d4659b9df48828f8187f382b432a7
 [https://github.com/api3dao/qrng-example/blob/main/contracts/QrngExample.sol](https://github.com/api3dao/qrng-example/blob/main/contracts/QrngExample.sol)
 
